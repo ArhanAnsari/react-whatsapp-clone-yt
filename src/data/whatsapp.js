@@ -33,8 +33,8 @@ export const chatsData = [
   },
   {
     pp: chat2,
-    contact: "Suraj",
-    msg: "Please help me with this bug",
+    contact: "Katrina Kaif",
+    msg: "Please help me with this problem",
     time: "11:11 am",
     unreadMsgs: 5,
   },
