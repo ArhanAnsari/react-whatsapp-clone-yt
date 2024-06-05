@@ -19,7 +19,7 @@ import {
 export const chatsData = [
   {
     pp: cs1,
-    contact: "Coding Spot",
+    contact: "CodeWithArhan",
     msg: "Awesome, thank you!",
     time: "1:15 pm",
     unreadMsgs: null,
@@ -27,16 +27,16 @@ export const chatsData = [
   {
     pp: chat1,
     contact: "Tom",
-    msg: "Coding Spot is fire! 🔥",
+    msg: "CodeWithArhan is fire! 🔥",
     time: "12:15 pm",
     unreadMsgs: 2,
   },
   {
     pp: chat2,
-    contact: "Girlfriend ❤️",
-    msg: "Miss you, call you later!",
+    contact: "Suraj",
+    msg: "Please help me with this bug",
     time: "11:11 am",
-    unreadMsgs: 4,
+    unreadMsgs: 5,
   },
   {
     pp: chat3,
@@ -97,7 +97,7 @@ export const chatsData = [
   {
     pp: chat11,
     contact: "Best Friend",
-    msg: "Wanna hang out? 🍺🍻",
+    msg: "Wanna hang out?",
     time: "yesterday",
     unreadMsgs: 3,
   },
@@ -205,12 +205,12 @@ export const messagesData = [
     sent: true,
   },
   {
-    msg: "AlejoG10",
+    msg: "ArhanAnsari",
     time: "11:36 am",
     sent: false,
   },
   {
-    msg: "https://github.com/AlejoG10",
+    msg: "https://github.com/ArhanAnsari",
     isLink: true,
     time: "11:36 am",
     sent: false,
@@ -221,28 +221,17 @@ export const messagesData = [
     sent: true,
   },
   {
-    msg: "Coding Spot",
-    time: "11:55 am",
-    sent: false,
-  },
-  {
-    msg: "https://www.youtube.com/channel/UCLqXQLK6zKZg0trhanjAkkQ",
-    isLink: true,
-    time: "11:55 am",
-    sent: false,
-  },
-  {
     img: cs2,
     time: "11:56 am",
     sent: false,
   },
   {
-    msg: "Niceeee channel! 🔥💯",
+    msg: "Niceeee! 🔥💯",
     time: "12:35 pm",
     sent: true,
   },
   {
-    msg: "I will see all of your videos 😉",
+    msg: "I will see all of your website and social media 😉",
     time: "12:35 pm",
     sent: true,
   },
