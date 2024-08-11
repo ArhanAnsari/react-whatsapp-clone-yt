@@ -23,7 +23,7 @@ function LoadingScreen({ progress }) {
         {/* Text section */}
         <div className="flex flex-col items-center">
           {/* WhatsApp name */}
-          <h1 className="text-[#c1c6c9] text-lg font-medium">WhatsApp</h1>
+          <h1 className="text-[#c1c6c9] text-lg font-medium">WhatsUp</h1>
 
           {/* Text */}
           <div className="flex items-center text-[#687782]">
